@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Silver Watch",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "name": "Sport Chronograph Watch",
+        "price": 390
+    },
+    {
+        "id": 3,
+        "name": "Luxury Gold Watch",
+        "price": 599.99
+    },
+    {
+        "id": 4,
+        "name": "Smartwatch Series X",
+        "price": 329.00
+    },
+    {
+        "id": 5,
+        "name": "Minimalist Black Watch",
+        "price": 99.50
+    }
+]
